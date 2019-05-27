@@ -16,6 +16,4 @@
     https://light-city.club
 - 个人微信公众号
 
-
-![](./img/wechat.jpg)
-![](./img/wechat.jpg)
+![wechat](./img/pub/wechat.jpg)

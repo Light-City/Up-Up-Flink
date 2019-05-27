@@ -89,9 +89,9 @@ public class SocketTextStreamWordCount {
 
 另外一种方式，使用IDEA左边的Maven直接`install`即可打包。
 
-![finish](../img/maven.png)
+![maven](../img/wordcount/maven.png)
 
-![finish](../img/finish.png)
+![finish](../img/wordcount/finish.png)
 
 最终看到`BUILD SUCCESS`就成功了。
 
@@ -113,11 +113,11 @@ public class SocketTextStreamWordCount {
 
 ![nc](../img/nc.png)
 
-![finish](../img/log.png)
+![log](../img/wordcount/log.png)
 
-![flink_jar](../img/flink_jar.png)
+![flink_jar](../img/wordcount/flink_jar.png)
 
-![runjob](../img/runjob.png)
+![runjob](../img/wordcount/runjob.png)
 
 问题：**中文与特殊字符不能统计**。
 
