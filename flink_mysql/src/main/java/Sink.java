@@ -5,8 +5,8 @@ import org.apache.flink.streaming.api.datastream.DataStreamSource;
 import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.api.functions.sink.PrintSinkFunction;
-import org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumer;
-import org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer;
+import org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumer010;
+
 
 import java.util.Properties;
 
@@ -28,7 +28,7 @@ public class Sink {
         props.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
         props.put("auto.offset.reset", "latest");
 
-        SingleOutputStreamOperator<Student> student = env.addSource(new FlinkKafkaConsumer<>(
+        SingleOutputStreamOperator<Student> student = env.addSource(new FlinkKafkaConsumer010<>(
                 "student",   //这个 kafka topic 需要和上面的工具类的 topic 一致
                 new SimpleStringSchema(),
                 props)).setParallelism(1)
