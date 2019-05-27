@@ -8,3 +8,14 @@
 | [flink_mysql](./flink_mysql) | Kafka-Flink-Mysql Kafka生成数据并存入Mysql |
 |             |                                            |
 
+
+## 关于我
+
+- 个人网站
+
+    https://light-city.club
+- 个人微信公众号
+
+
+![](./img/wechat.jpg)
+![](./img/wechat.jpg)
