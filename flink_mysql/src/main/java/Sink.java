@@ -11,11 +11,6 @@ import org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumer010;
 import java.util.Properties;
 
 
-/**
- * Desc:
- * weixin: zhisheng_tian
- * blog: http://www.54tianzhisheng.cn/
- */
 public class Sink {
     public static void main(String[] args) throws Exception {
         final StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
