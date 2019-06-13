@@ -14,7 +14,7 @@
 | [flink-sql](./flink-sql) | flink-sql自理 | [WordCountSQL](./flink-sql/WordCountSQL) | wordcountSQL例子 |
 |  |  |  |  |
 | [flink-dataset](./flink-dataset) | flink-dataset学习 | [DataSource](./flink-dataset/DataSource) | 数据加载方式 |
-|  |  | [DataSet](./flink-dataset/DataSet) | map、join、sort、join的练习 |
+|  |  | [DataSet](./flink-dataset/DataSet) | map、join、sort、join、retry的练习 |
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-## 关于我
+## 2.关于我
 
 - 个人网站
 
