@@ -13,8 +13,8 @@
 |  |  |  |  |
 | [flink-sql](./flink-sql) | flink-sql自理 | [WordCountSQL](./flink-sql/WordCountSQL) | wordcountSQL例子 |
 |  |  |  |  |
-| [flink-dataset](./flink-dataset) | flink-dataset学习 | [DataSource](./DataSource) | 数据加载方式 |
-|  |  | [DataSet](./DataSet) | map、join、sort、join的练习 |
+| [flink-dataset](./flink-dataset) | flink-dataset学习 | [DataSource](./flink-dataset/DataSource) | 数据加载方式 |
+|  |  | [DataSet](./flink-dataset/DataSet) | map、join、sort、join的练习 |
 
 
 
