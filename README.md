@@ -15,6 +15,8 @@
 |  |  |  |  |
 | [flink-dataset](./flink-dataset) | flink-dataset学习 | [DataSource](./flink-dataset/DataSource) | 数据加载方式 |
 |  |  | [DataSet](./flink-dataset/DataSet) | map、join、sort、join、retry的练习 |
+|  |  | | |
+|  |  | [DataStream](./flink-stream/datastream) |没有并行度的stream、有并行度的stream及自定义的stream(实现接口与继承类) |
 
 
 
