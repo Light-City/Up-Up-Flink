@@ -17,6 +17,7 @@
 |  |  | [DataSet](./flink-dataset/DataSet) | map、join、sort、join、retry的练习 |
 |  |  | | |
 |  |  | [DataStream](./flink-stream/datastream) |没有并行度的stream、有并行度的stream及自定义的stream(实现接口与继承类) |
+| [flink-advanced](./flink-advanced)           | flink高级进阶 | [restart_distcache](./flink-advanced/restart_distcache) |重启策略和分布式缓存 |
 
 
 
