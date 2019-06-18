@@ -19,10 +19,9 @@
 |  |  | [DataStream](./flink-stream/datastream) |没有并行度的stream、有并行度的stream及自定义的stream(实现接口与继承类) |
 | [flink-advanced](./flink-advanced)           | flink高级进阶 | [restart_distcache](./flink-advanced/restart_distcache) |重启策略和分布式缓存 |
 |  | | [flink-broadcast](./flink-advanced/flink-broadcast) |广播 |
+| | | [flink-windowWatermark](./flink-advanced/flink-windowWatermark) |窗口、时间及水印(<font style="color:red">重要！</font>) |
 
 
-
-> 备注：部分学习来源于https://github.com/zhisheng17/flink-learning
 
 
 
