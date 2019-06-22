@@ -33,4 +33,4 @@
     https://light-city.club
 - 个人微信公众号
 
-![wechat](./img/pub/wechat.jpg)
+![wechat](./img/wechat.jpg)
